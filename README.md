@@ -1,46 +1,34 @@
 # Inventory System
 
-Create an Inventory System using CodeIgniter, MySQL &amp; PHP
+Created by Vishrut and Satyam, DAIICT
 
-# Screenshots
 
-![Login Page](https://github.com/ronknight/InventorySystem/blob/master/assets/images/screenshots/login.PNG)
-![Dashboard](https://github.com/ronknight/InventorySystem/blob/master/assets/images/screenshots/dashboard.PNG)
-![Database](https://github.com/ronknight/InventorySystem/blob/master/assets/images/screenshots/database.PNG)
 
 # System Features
 1. Manage Users
 * Add new user detail
 * View, Update, and remove user information
 2. Manage Clubs
-* Add new club information
+* Add new Club information
 * View, Update, and remove club information
-3. Manage Brands
-* Add new brand data
-* View, Update, and remove brand information
 4. Manage Category
 * Add new category information
 * View, Update, and remove category information
-5. Manage Stores
+5. Purchase History
 * Add new store information
-* View, Update, and remove stores information
-6. Manage Attributes
+* View, Update, and remove products information
+6. Discarded Products
 * Add new attribute information
-* View, Update, and remove attributes information
-7. Manage Products
+* Edit discarded Products information
+7. Current Product Stock
 * Add new product information
 * View, Update, and remove products information
 8. Manage Orders
 * Add new order information
 * View, Update, and remove orders information
-9. Reports
-* View total amount of sales represented on the graphical chart based on yearly.
-10. Company
-* Update the company information
-* That includes company name, address, phone, message, vat charge, service charge and more..
-11. Profile
+9. Profile
 * View the logged in user information
-12. Setting
+10. Setting
 * View, and Update logged in user information
 
 # Super Admin Credential
@@ -70,15 +58,4 @@ Application Server
 5. Turn On Apache and MySQL on your Application Server Control Panel.
 6. Your system show be found on http://localhost/InventorySystem/
 
-# License
 
-MIT
-
-# Resources
-
-Original Sourcecode from CodeFolder - https://codersfolder.com/2018/02/stock-management-system-v2-codeigniter/
-CodeIgniter - Web Framework
-AdminLTE - Theme
-
-# Acknowledgement
-Great Project
