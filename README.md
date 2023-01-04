@@ -1,8 +1,10 @@
-# Inventory System
+# B.Tech Mini Project
+# DAIICT-Inventory System
 
-Created by Vishrut and Satyam, DAIICT
+Created by Vishrut (201901213) and Satyam (201901209), DAIICT
 
-
+# Project Description: 
+We have developed an Inventory management system after observing the problem of Inventory faced by Clubs/Committees at Dhirubhai Ambani Institute For Information And Communication Technology. This system has the following features:
 
 # System Features
 1. Manage Users
